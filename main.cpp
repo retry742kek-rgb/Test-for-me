@@ -14,5 +14,6 @@ int main() {
 
     cout << "Факториал_числаfff " << number << " равен " << factorial(number) << endl;
     cout << "puk";
+    cout << "srenk";
     return 0;
 }
